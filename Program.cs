@@ -7,7 +7,7 @@ namespace project101
     {
         static void Main(string[] args)
         {
-            //Getting the Sum of the 2 numbers
+            
             /*Console.WriteLine("Enter First Number; ");
             int firstNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Second Number; ");
